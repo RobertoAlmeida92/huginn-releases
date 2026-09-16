@@ -1,0 +1,13 @@
+{
+  "version": "6.4.0",
+  "release_date": "2026-09-15",
+  "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.0.zip",
+  "sha256": "e031e6dc400f856c5c67f3a33f8b636920abaa403002b60d30a3c92c5e0dd40b",
+  "signature": "D5B52F3FB0FF5EC57F75A44BA3664868A0F8077418559672B59419A6219004E1",
+  "changelog": [
+    "Atualização forense Huginn v6.4.0",
+    "Otimizações no motor de coleta de avatares do Instagram",
+    "Aprimoramentos de segurança e Modo Cofre Bloqueado"
+  ],
+  "mandatory": false
+}
