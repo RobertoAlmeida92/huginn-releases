@@ -2,8 +2,8 @@
   "version": "6.4.2",
   "release_date": "2026-09-16",
   "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.2.zip",
-  "sha256": "32264cfaf6e9159f0512bdacb13a7c23ea280aad7a89f20eaa7456c89dfb5fcd",
-  "signature": "3DD1F919C54EDE1668812D42472B2444AC80F19D43A3FEDEA4D2F0FDB7778771",
+  "sha256": "6e4993d4b8c35fa2da5f3bb66ec39355ef2f73793dd9b6d09d163b195b342115",
+  "signature": "E4DB86C4C945CD7982F17947960AF41CB3289BC0814E9F008E9BDB29AE2E5EEC",
   "changelog": [
     "Atualização forense Huginn v6.4.2",
     "Correção e auto-download no carregamento de fotos de perfil (avatares)",
