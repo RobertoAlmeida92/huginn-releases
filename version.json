@@ -1,17 +1,16 @@
 {
-  "version": "6.4.2",
+  "version": "6.4.3",
   "release_date": "2026-09-17",
-  "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.2.zip",
-  "sha256": "b599c62a02652938b1ff646672cdb134d4126c283c9a338536512b14e24e2848",
-  "signature": "EF44504D49F01F32F64D4DFECA92D05E8D1D9574A0ED9E8FC06B216425BB2BDF",
+  "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.3.zip",
+  "sha256": "03478ccc8eb242e1927f898143a11d3509687c64dde126e34e8bc88d54ef5468",
+  "signature": "B8580C7743173BCD058A2DDFF3C78DFA46E94660648446EB7B095F1DE80F454E",
   "changelog": [
-    "Atualização forense Huginn v6.4.2",
-    "Correção e auto-download no carregamento de fotos de perfil (avatares)",
-    "Novo botão de alternância de tema no cabeçalho (apenas ícone compacto)",
-    "Biblioteca Lucide incorporada localmente para funcionamento 100% offline",
-    "Blindagem dos seletores em cascata (Operação, Fase e Alvo)",
-    "Exibição de versão no rodapé e painel informativo 'Sobre o Sistema'",
-    "Janela própria de aplicativo (Desktop Window Mode)"
+    "Atualização forense Huginn v6.4.3",
+    "Direcionamento permanente de conversas do Instagram para o ID (UID) numérico",
+    "Resolução nativa e automática do perfil atual do investigado via URL de UID",
+    "Exibição do UID do interlocutor no cabeçalho do chat com cópia rápida para laudos",
+    "Identificadores de remetentes nas bolhas e participantes vinculados ao ID oficial Meta",
+    "Blindagem e isolamento para importação de múltiplos ZIPs com alvos distintos"
   ],
   "mandatory": false
 }
