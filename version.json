@@ -1,17 +1,16 @@
 {
-  "version": "6.4.5",
+  "version": "6.4.6",
   "release_date": "2026-09-17",
-  "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.5.zip",
-  "sha256": "a823a9e6fd76d2052b1bfaac53dda5d0fdacbd93aa7c6777b39d90f1e0d944c7",
-  "signature": "FE6F203F54276EA71B80E7DFF82DED4E8FFDE2B54D9D5300AE790E9451F4B1E8",
+  "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.4.6.zip",
+  "sha256": "a08498eb96f2ad82ccf209340f3b45084acf1360da8411dc65158c6a4000b492",
+  "signature": "9547A5F44EFE726CDD7FDE7953A87EED6EC18979999E51A19AC2A50A1DD47E44",
   "changelog": [
-    "Atualização forense Huginn v6.4.5",
-    "Resgate de 100% das mensagens particionadas por quebras de página da Meta (LERS) em relatórios judiciais",
-    "Busca inteligente nas conversas (DMs) com destaque luminoso e navegador de ocorrências (Enter / Shift+Enter)",
-    "Sincronização em tempo real do contador de mídias da conversa na gaveta de Detalhes",
-    "Card pericial de áudio no Relatório de Evidências com player de velocidade integrada e transcrição Whisper",
-    "Direcionamento permanente de conversas do Instagram para o ID (UID) numérico",
-    "Blindagem e isolamento para importação de múltiplos ZIPs com alvos distintos"
+    "Atualização forense Huginn v6.4.6",
+    "Prévia Multi-Evidência: Inspeção paralela e prévia detalhada com exclusão dinâmica antes da ingestão",
+    "Decisão Inteligente de Destino: Reconhecimento automático entre contas do mesmo investigado e investigados distintos",
+    "Higienização Forense de Identificadores: Remoção automática de parâmetros de URL residuais (?igsh=...) em perfis e relatórios",
+    "Cadeia de Custódia Aprimorada: Registro de hashes SHA-256 individuais calculados para cada arquivo ZIP",
+    "Ergonomia & Interface: Janela interna de prévia com rolagem vertical otimizada e cabeçalho aprimorado"
   ],
   "mandatory": false
 }
