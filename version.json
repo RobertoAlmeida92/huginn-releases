@@ -2,8 +2,8 @@
   "version": "6.5.0",
   "release_date": "2026-09-17",
   "download_url": "https://raw.githubusercontent.com/RobertoAlmeida92/huginn-releases/main/huginn_patch_v6.5.0.zip",
-  "sha256": "2abfceaa0acebe6762a6a3f08bedf71fe05e8393016ef31e1dcf0192862a386d",
-  "signature": "44B4E9F320BDB29D16D9C89F4A7B41C695E717BA97961038E6EB41C960456837",
+  "sha256": "4aa17cca511bca0710b1f18785d5398e2a61d01a744877e29d61bc8cda9fe51b",
+  "signature": "8ED462FAA2BED96412851601A42D30AA0F46419ECB2B72D861F65091DFB967D4",
   "changelog": [
     "Atualização forense Huginn v6.5.0",
     "Janela Nativa Desktop (PyWebView): Integração com Edge WebView2 nativo eliminando necessidade de navegador",
